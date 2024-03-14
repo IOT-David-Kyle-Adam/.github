@@ -1,2 +1,3 @@
-Join the team on GitHub and if you want create the README.md file and just say like Petfeeder and that it puts food out for the pet something small like short description (temporary not permanent read me only here for me to figure it out)
+this is a college project for internet of things I remember include Adam, David, Kyle. our project is a remote pet feeder that uses and Arduino yun to control its fine motors. the project will be mostly constructed with 3D printed plastic or perplex there will be screws connecting it the pieces together
 
+there will be code in this git repository
